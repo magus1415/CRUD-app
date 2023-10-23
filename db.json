@@ -7,10 +7,22 @@
       "id": 1
     },
     {
-      "firstName": "Andres",
-      "lastName": "Garnica",
-      "country": "United States",
+      "firstName": "Will ",
+      "lastName": "Smith",
+      "country": "Brazil",
       "id": 2
+    },
+    {
+      "firstName": "Tom",
+      "lastName": "Petty",
+      "country": "England",
+      "id": 3
+    },
+    {
+      "firstName": "James",
+      "lastName": "Hetfield",
+      "country": "Spain",
+      "id": 4
     }
   ],
   "comments": [
